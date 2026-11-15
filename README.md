@@ -1,16 +1,22 @@
-## Hi there 👋
+<a href="https://github.com/RockMother">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Kirill+Shumilov;Senior+Full+Stack+Engineer;I+make+AI+agents+useful+and+safe" alt="Kirill Shumilov" />
+</a>
 
-<!--
-**RockMother/RockMother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Engineer · Israel
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write software that has to be right: things that move money, hold secrets,
+or hand control to an AI agent. The interesting part is never the framework —
+it is deciding what the system is not allowed to do.
+
+Three things I believe
+
+Small diff, clear intent. Clever code is a debt someone else pays at 3am.
+If a machine can act on its own, it needs a leash, an audit trail, and a human on the other end.
+Ship the ugly version, then let real usage decide what to polish.
+Outside the terminal: home renovation, motorcycles, open water.
+
+
+!GitHub Streak
+
+Always up for a hard integration problem.
