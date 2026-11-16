@@ -1,5 +1,5 @@
 <a href="https://github.com/RockMother">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Kirill+Shumilov;Senior+Full+Stack+Engineer;I+make+AI+agents+useful+and+safe" alt="Kirill Shumilov" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Kirill+Shumilov;Senior+Full+Stack+Engineer;I+make+AI+agents+useful+and+safe " alt="Kirill Shumilov" />
 </a>
 
 Senior Full Stack Engineer · Israel
